@@ -1,3 +1,6 @@
 [submodule "CSC-520-Graphing-calculator"]
 	path = CSC-520-Graphing-calculator
 	url = https://github.com/nrew088/CSC-520-Graphing-calculator
+[submodule "Rock-paper-scissors-CSC-328"]
+	path = Rock-paper-scissors-CSC-328
+	url = https://github.com/nwirew/Rock-paper-scissors-CSC-328
