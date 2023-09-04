@@ -4,3 +4,6 @@
 [submodule "Rock-paper-scissors-CSC-328"]
 	path = Rock-paper-scissors-CSC-328
 	url = https://github.com/nwirew/Rock-paper-scissors-CSC-328
+[submodule "Client-server-database-project"]
+	path = Client-server-database-project
+	url = https://github.com/nwirew/Client-server-database-project
