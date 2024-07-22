@@ -7,3 +7,6 @@
 [submodule "Client-server-database-project"]
 	path = Client-server-database-project
 	url = https://github.com/nwirew/Client-server-database-project
+[submodule "Sync"]
+	path = Sync
+	url = https://github.com/nwirew/Sync
